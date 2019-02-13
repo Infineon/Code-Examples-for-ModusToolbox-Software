@@ -1,6 +1,6 @@
 # Code-Examples-for-ModusToolbox
 
-There are hundreds of code examples available for ModusToolbox - so many we can't put them all in one repository. Learn more about each repo in the ReadMe file for that repo.
+There are hundreds of code examples available for ModusToolbox - so many we can't put them all in one repository. Go to the individual repo to get the code, or learn more about each repo.
 
 ## Code Examples for ModusToolbox Software 
 
