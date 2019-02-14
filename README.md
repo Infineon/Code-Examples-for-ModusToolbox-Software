@@ -17,7 +17,7 @@ The AWS examples rely on the [AWS IoT Client Library](https://github.com/cypress
 You can find Cypress-specific examples for Arm Mbed OS by searching this site for "mbed-os-example". For example that search would find: [mbed-os-example-CapSense](https://github.com/cypresssemiconductorco/mbed-os-example-CapSense). Limit the search to this organization to find results specific to Cypress.
 
 # ModusToolbox Software
-![](/images/MTbanner.png)
+![](/Images/MTbanner.png)
 
 ModusToolbox software is a complete Software Development Kit for PSoC 6 MCU. ModusToolbox IDE is installed as part of ModusToolbox software. The IDE is based on the industry-standard Eclipse IDE, and provides a single, coherent, and familiar design experience for the lowest power, most flexible MCUs with best-in-class sensing.
 
