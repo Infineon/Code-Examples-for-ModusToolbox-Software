@@ -1,6 +1,6 @@
 # Code Examples for ModusToolbox Software
 
-There are hundreds of code examples available - so many we can't put them all in one repository. Go to the individual repo to get the code, or to learn more about each repo.
+There are hundreds of code examples available - so many we can't put them all in one repository. Go to the individual repo to get the code, and to learn more about each repo.
 
 ## Code Examples for ModusToolbox Software 
 
@@ -8,6 +8,7 @@ There are hundreds of code examples available - so many we can't put them all in
 | ----- | ----- |
 |[PSoC 6 SDK Examples](https://github.com/cypresssemiconductorco/Code-Examples-for-the-ModusToolbox-PSoC-6-SDK) | Demonstrate the peripherals and basic functionality of the PSoC® 6 MCU. Some examples demonstrate more complex solutions.|
 |[20819A1 Bluetooth Examples](https://github.com/cypresssemiconductorco/Code-Examples-BT-20819A1-1.0-for-ModusToolbox-1.1)| Demo applications and snippets for CYBT-213043-MESH and CYW920819EVB-02, along with an empty application template|
+| **Mbed OS Examples** |
 |[AWS IoT Greengrass Examples](https://github.com/cypresssemiconductorco/AWS_IoT_Greengrass_Code_Examples)|Amazon Web Services Greengrass examples, both publisher and subscriber |
 |[AWS IoT Publish/Subscribe Examples](https://github.com/cypresssemiconductorco/AWS_IoT_Publish_Subscribe_Code_Examples)| Amazon Web Services cloud-based examples|
 |[Mbed OS and CapSense](https://github.com/cypresssemiconductorco/mbed-os-example-CapSense)| Shows how to integrate Cypress CapSense technology into an Mbed OS 5 application|
