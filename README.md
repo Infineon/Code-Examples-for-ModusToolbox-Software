@@ -15,8 +15,6 @@ There are hundreds of code examples available - so many we can't put them all in
 
 The AWS examples rely on the [AWS IoT Client Library](https://github.com/cypresssemiconductorco/AWS_IoT_Client_Library). The examples will link that library automatically.
 
-You can find Cypress-specific examples for Arm Mbed OS by searching this site for "mbed-os-example". For example that search would find: [mbed-os-example-CapSense](https://github.com/cypresssemiconductorco/mbed-os-example-CapSense). Limit the search to this organization to find results specific to Cypress.
-
 # ModusToolbox Software
 ![](/Images/MTbanner.png)
 
