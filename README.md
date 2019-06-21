@@ -8,11 +8,12 @@ There are hundreds of code examples available - so many we can't put them all in
 | ----- | ----- |
 |[PSoC 6 SDK Examples](https://github.com/cypresssemiconductorco/Code-Examples-for-the-ModusToolbox-PSoC-6-SDK) | Demonstrate the peripherals and basic functionality of the PSoC® 6 MCU. Some examples demonstrate more complex solutions.|
 |[Bluetooth SDK Examples](https://github.com/cypresssemiconductorco/Code-Examples-BT-SDK-for-ModusToolbox)| Demo applications and snippets for various bluetooth devices and kits, including mesh network examples.|
-| **Mbed OS Examples** |
+| **Mbed OS Examples** ||
 |[AWS IoT Greengrass Examples](https://github.com/cypresssemiconductorco/AWS_IoT_Greengrass_Code_Examples)|Amazon Web Services Greengrass examples, both publisher and subscriber |
 |[AWS IoT Publish Subscribe Examples](https://github.com/cypresssemiconductorco/AWS_IoT_Publish_Subscribe_Code_Examples)| Amazon Web Services cloud-based examples|
 |[CapSense](https://github.com/cypresssemiconductorco/mbed-os-example-CapSense)| Shows how to integrate Cypress CapSense technology into an Mbed OS 5 application|
-|[Segger EmWin](https://github.com/cypresssemiconductorco/mbed-os-example-emwin-eink) | Demonstrates the Segger EmWin graphics library using the Cypress EInk display.| 
+|[Segger emWin eInk](https://github.com/cypresssemiconductorco/mbed-os-example-emwin-eink) | Demonstrates the Segger EmWin graphics library using the Cypress EInk display.|
+|[Execute in Place](https://github.com/cypresssemiconductorco/mbed-os-example-xip) | Demonstrates the Execute-in-Place (XIP) feature of PSoC 6 MCU, using external serial memory. |
 
 The AWS examples rely on the [AWS IoT Client Library](https://github.com/cypresssemiconductorco/AWS_IoT_Client_Library). The examples will link that library automatically.
 
@@ -29,6 +30,8 @@ Join the discussion at the [ModusToolbox Forum](https://community.cypress.com/co
 Cypress provides low-cost development kits for the PSoC 6 MCU platform.
 
 [PSoC 6 BLE Pioneer Kit](http://www.cypress.com/cy8ckit-062-ble): The PSoC 6 BLE Pioneer Kit  enables design and debug of the PSoC 63 Line. The kit includes an E-Ink display, and Cypress' industry-leading CapSense® technology.
+
+[PSoC 6 BLE Prototyping Kit](https://www.cypress.com/documentation/development-kitsboards/psoc-6-ble-prototyping-kit-cy8cproto-063-ble): a low-cost hardware platform that enables design and debug of PSoC 6 MCUs. This kit is designed with a snap-away form-factor, allowing users to separate the KitProg (on-board programmer and debugger) from the target board and use independently.
 
 [PSoC 6 WiFi-BT Pioneer Kit](http://www.cypress.com/CY8CKIT-062-WiFi-BT): The PSoC 6 WiFi-BT Pioneer Kit enables design and debug of the PSoC 62 MCU and the Murata LBEE5KL1DX Module (CYW4343W WiFi + Bluetooth Combo Chip). It includes a TFT display and Cypress' industry-leading CapSense technology.
 
