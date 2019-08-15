@@ -8,8 +8,8 @@ There are hundreds of code examples available - so many we can't put them all in
 | ----- | ----- |
 |[PSoC 6 SDK Examples](https://github.com/cypresssemiconductorco/Code-Examples-for-the-ModusToolbox-PSoC-6-SDK) | A single repo with many examples that demonstrate the peripherals and functionality of the PSoC® 6 MCU. These examples support ModusToolbox 1.1 |
 |[Bluetooth SDK Examples](https://github.com/cypresssemiconductorco/Code-Examples-BT-SDK-for-ModusToolbox)| A single repo with demo applications and snippets for various bluetooth devices and kits, including mesh network examples. |
-|[AWS IoT Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example-aws NOT deprecated)| This search link displays Amazon Web Services examples: publisher and subscriber, and greengrass, using the Mbed OS ecosystem. |
-| [Mbed OS Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example NOT Deprecated) |This search link displays a list of all Mbed-OS examples on the Cypress GitHub site, including CapSense, the emWin library, AWS IoT, and more.|
+|[AWS IoT Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example-aws%20NOT%20deprecated)| This search link displays Amazon Web Services examples: publisher and subscriber, and greengrass, using the Mbed OS ecosystem. |
+| [Mbed OS Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example%20NOT%20Deprecated) |This search link displays a list of all Mbed-OS examples on the Cypress GitHub site, including CapSense, the emWin library, AWS IoT, and more.|
 
 The AWS examples rely on the [AWS IoT Client Library](https://github.com/cypresssemiconductorco/aws-iot). The examples will link that library automatically.
 
