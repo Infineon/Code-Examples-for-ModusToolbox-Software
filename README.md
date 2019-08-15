@@ -1,22 +1,15 @@
 # Code Examples for ModusToolbox Software
 
-There are hundreds of code examples available - so many we can't put them all in one repository. Go to the individual repo to get the code, and to learn more about each repo.
+There are hundreds of code examples available - so many we can't put them all in one repository. Use the links below to find the example you want, learn more about each repo, and discover how to bring that code example into your development environment.
 
 ## Code Examples for ModusToolbox Software 
 
 | Repo | Description |
 | ----- | ----- |
-|[PSoC 6 SDK Examples](https://github.com/cypresssemiconductorco/Code-Examples-for-the-ModusToolbox-PSoC-6-SDK) | Demonstrate the peripherals and basic functionality of the PSoC® 6 MCU. Some examples demonstrate more complex solutions.|
-|[Bluetooth SDK Examples](https://github.com/cypresssemiconductorco/Code-Examples-BT-SDK-for-ModusToolbox)| Demo applications and snippets for various bluetooth devices and kits, including mesh network examples.|
-| **Mbed OS Examples** ||
-|[AWS Greengrass Examples](https://github.com/cypresssemiconductorco/mbed-os-example-aws-greengrass)|Amazon Web Services Greengrass examples, both publisher and subscriber |
-|[AWS Publish Subscribe Examples](https://github.com/cypresssemiconductorco/mbed-os-example-aws-iot-client)| Amazon Web Services cloud-based examples|
-|[CapSense](https://github.com/cypresssemiconductorco/mbed-os-example-CapSense)| Shows how to integrate Cypress CapSense technology into an Mbed OS 5 application|
-|[CapSense Sigma-Delta ADC](https://github.com/cypresssemiconductorco/mbed-os-example-csdadc) | Demonstrates the CSD analog to digital converter (ADC). |
-|[CapSense Sigma-Delta IDAC](https://github.com/cypresssemiconductorco/mbed-os-example-csdidac) | Demonstrates the CSD current digital-to-analog converter (IDAC) as a current source and a current sink. |
-|[Segger emWin eInk](https://github.com/cypresssemiconductorco/mbed-os-example-emwin-eink) | Demonstrates the Segger EmWin graphics library using the Cypress EInk display.|
-|[Segger emWin OLED](https://github.com/cypresssemiconductorco/mbed-os-example-emwin-oled) | Demonstrates how to display graphics on an OLED display. |
-|[Execute in Place](https://github.com/cypresssemiconductorco/mbed-os-example-xip) | Demonstrates the Execute-in-Place (XIP) feature of PSoC 6 MCU, using external serial memory. |
+|[PSoC 6 SDK Examples](https://github.com/cypresssemiconductorco/Code-Examples-for-the-ModusToolbox-PSoC-6-SDK) | A single repo with many examples that demonstrate the peripherals and functionality of the PSoC® 6 MCU. These examples support ModusToolbox 1.1 |
+|[Bluetooth SDK Examples](https://github.com/cypresssemiconductorco/Code-Examples-BT-SDK-for-ModusToolbox)| A single repo with demo applications and snippets for various bluetooth devices and kits, including mesh network examples. |
+|[AWS IoT Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example-aws NOT deprecated)| This search link displays Amazon Web Services examples: publisher and subscriber, and greengrass, using the Mbed OS ecosystem. |
+| [Mbed OS Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example NOT Deprecated) |This search link displays a list of all Mbed-OS examples on the Cypress GitHub site, including CapSense, the emWin library, AWS IoT, and more.|
 
 The AWS examples rely on the [AWS IoT Client Library](https://github.com/cypresssemiconductorco/aws-iot). The examples will link that library automatically.
 
