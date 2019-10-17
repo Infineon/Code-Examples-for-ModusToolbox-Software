@@ -1,26 +1,31 @@
 # Code Examples for ModusToolbox Software
 
-There are hundreds of code examples available - so many we can't put them all in one repository. Use the links below to find the example you want, learn more about each repo, and discover how to bring that code example into your development environment.
+There are hundreds of code examples available. Use the links below to find the example you want, learn more about each repo, and discover how to bring that code example into your development environment.
 
 ## Code Examples for ModusToolbox Software 
 
 | Repo | Description |
 | ----- | ----- |
-|[PSoC 6 SDK Examples](https://github.com/cypresssemiconductorco/Code-Examples-for-the-ModusToolbox-PSoC-6-SDK) | A single repo with many examples that demonstrate the peripherals and functionality of the PSoC® 6 MCU. These examples support ModusToolbox 1.1 |
-|[Bluetooth SDK Examples](https://github.com/cypresssemiconductorco/Code-Examples-BT-SDK-for-ModusToolbox)| A single repo with demo applications and snippets for various bluetooth devices and kits, including mesh network examples. |
-|[AWS IoT Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example-aws%20NOT%20deprecated)| This search link displays Amazon Web Services examples: publisher and subscriber, and greengrass, using the Mbed OS ecosystem. |
-| [Mbed OS Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example%20NOT%20Deprecated) |This search link displays a list of all Mbed-OS examples on the Cypress GitHub site, including CapSense, the emWin library, AWS IoT, and more.|
+|[PSoC 6 MCU Examples](https://github.com/cypresssemiconductorco?q=mtb-example%20NOT%20Deprecated) | This link finds all "mtb-example" repositories for ModusToolbox 2.x. These examples demonstrate the MCU and its features and functionality. |
+|Bluetooth SDK Examples| We will update for ModusToolbox 2.x shortly. |
+|[AWS IoT Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example-aws%20NOT%20deprecated)| This search link displays Amazon Web Services examples using the Mbed OS ecosystem. This includes publisher and subscriber, and greengrass examples. |
+| [Mbed OS Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example%20NOT%20Deprecated) |This link displays a list of all Mbed-OS examples on the Cypress GitHub site, including CapSense, the emWin library, AWS IoT, and more.|
 
 The AWS examples rely on the [AWS IoT Client Library](https://github.com/cypresssemiconductorco/aws-iot). The examples will link that library automatically.
 
+Some of the links above just search our repositories to find what you're looking for. To create your own search, go to the [Cypress GitHub home page](https://github.com/cypresssemiconductorco) and enter a search term in the **Find a repository** field.
+
+![search](Images/search.png)
+
+Cypress is in transition between ModusToolbox v1.1 and v2.0. The information above references ModusToolbox 2.0. If you are interested in code examples for ModusToolbox v1.1:
+
+- For legacy MCU examples [this repository](https://github.com/cypresssemiconductorco/Code-Examples-for-the-ModusToolbox-PSoC-6-SDK).
+- For legacy Bluetooth SDK examples [this repository](https://github.com/cypresssemiconductorco/Code-Examples-BT-SDK-for-ModusToolbox). 
+
 # ModusToolbox Software
-![](/Images/MTbanner.png)
+![](Images/MTbanner.png)
 
-ModusToolbox software is a complete Software Development Kit for PSoC 6 MCU. ModusToolbox IDE is installed as part of ModusToolbox software. The IDE is based on the industry-standard Eclipse IDE, and provides a single, coherent, and familiar design experience for the lowest power, most flexible MCUs with best-in-class sensing.
-
-* [ModusToolbox Software](http://www.cypress.com/ModusToolbox)
-
-Join the discussion at the [ModusToolbox Forum](https://community.cypress.com/community/modustoolbox/overview) on the Cypress Developer Community.
+ModusToolbox™ software is a collection of tools and libraries that enable you to develop embedded and connected applications in your ecosystem of choice. ModusToolbox software includes configuration tools, low-level drivers, middleware libraries, and operating system support, as well as other packages that enable you to create MCU and wireless applications. It also includes the optional ModusToolbox IDE. Unless specifically stated otherwise, ModusToolbox resources are compatible with Linux®, macOS®, and Windows®-hosted environments.
 
 # Kits
 Cypress provides low-cost development kits for the PSoC 6 MCU platform.
