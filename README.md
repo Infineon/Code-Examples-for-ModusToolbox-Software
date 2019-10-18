@@ -2,8 +2,6 @@
 
 There are hundreds of code examples available. Use the links below to find the example you want, learn more about each repo, and discover how to bring that code example into your development environment.
 
-## Code Examples for ModusToolbox Software 
-
 | Repo | Description |
 | ----- | ----- |
 |[PSoC 6 MCU Examples](https://github.com/cypresssemiconductorco?q=mtb-example%20NOT%20Deprecated) | This link finds all "mtb-example" repositories for ModusToolbox 2.x. These examples demonstrate the MCU and its features and functionality. |
@@ -11,7 +9,7 @@ There are hundreds of code examples available. Use the links below to find the e
 |[AWS IoT Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example-aws%20NOT%20deprecated)| This search link displays Amazon Web Services examples using the Mbed OS ecosystem. This includes publisher and subscriber, and greengrass examples. |
 | [Mbed OS Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example%20NOT%20Deprecated) |This link displays a list of all Mbed-OS examples on the Cypress GitHub site, including CapSense, the emWin library, AWS IoT, and more.|
 
-The AWS examples rely on the [AWS IoT Client Library](https://github.com/cypresssemiconductorco/aws-iot). The examples will link that library automatically.
+The AWS examples rely on the [AWS IoT Client Library](https://github.com/cypresssemiconductorco/aws-iot). The examples will link to that library automatically.
 
 Some of the links above just search our repositories to find what you're looking for. To create your own search, go to the [Cypress GitHub home page](https://github.com/cypresssemiconductorco) and enter a search term in the **Find a repository** field.
 
@@ -36,7 +34,7 @@ Cypress provides low-cost development kits for the PSoC 6 MCU platform.
 
 [PSoC 6 WiFi-BT Pioneer Kit (CY8CKIT-062-WIFI-BT)](http://www.cypress.com/CY8CKIT-062-WiFi-BT): The PSoC 6 WiFi-BT Pioneer Kit enables design and debug of the PSoC 62 MCU and the Murata LBEE5KL1DX Module (CYW4343W WiFi + Bluetooth Combo Chip). It includes a TFT display and Cypress' industry-leading CapSense technology.
 
-[PSoC 6 Wi-Fi BT Prototyping Kit (CY8CPROTO-062-4343W_](http://www.cypress.com/cy8cproto-062-4343w) enables design and debug of PSoC 6 MCUs. It comes with industry-leading CapSense technology for touch buttons and slider, on-board debugger/programmer with KitProg3, μSD card interface, 512-Mb Quad-SPI NOR flash, PDM-PCM microphone, and a thermistor. It also includes a Murata LBEE5KL1DX module, based on the CYW4343W combo device.
+[PSoC 6 Wi-Fi BT Prototyping Kit (CY8CPROTO-062-4343W](http://www.cypress.com/cy8cproto-062-4343w) enables design and debug of PSoC 6 MCUs. It comes with industry-leading CapSense technology for touch buttons and slider, on-board debugger/programmer with KitProg3, μSD card interface, 512-Mb Quad-SPI NOR flash, PDM-PCM microphone, and a thermistor. It also includes a Murata LBEE5KL1DX module, based on the CYW4343W combo device.
 
 # Technical Resources
 
