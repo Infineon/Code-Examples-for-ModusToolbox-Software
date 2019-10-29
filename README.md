@@ -4,7 +4,7 @@ There are hundreds of code examples available. Use the links below to find the e
 
 | Repo | Description |
 | ----- | ----- |
-|[PSoC 6 MCU Examples](https://github.com/cypresssemiconductorco?q=mtb-example%20NOT%20Deprecated) | This link finds all "mtb-example" repositories for ModusToolbox 2.x. These examples demonstrate the MCU and its features and functionality. |
+|[PSoC 6 MCU Examples](https://github.com/cypresssemiconductorco?q=mtb-example-psoc6%20NOT%20Deprecated) | This link finds all "mtb-example-psoc6" repositories for ModusToolbox 2.x. These examples demonstrate the MCU and its features and functionality. |
 |[Bluetooth SDK Examples](https://github.com/cypresssemiconductorco?q=btsdk-example%20NOT%20Deprecated)| This link finds all btsdk-related examples. |
 |[AWS IoT Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example-aws%20NOT%20deprecated)| This search link displays Amazon Web Services examples using the Mbed OS ecosystem. This includes publisher and subscriber, and greengrass examples. |
 | [Mbed OS Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example%20NOT%20Deprecated) |This link displays a list of all Mbed-OS examples on the Cypress GitHub site, including CapSense, the emWin library, AWS IoT, and more.|
