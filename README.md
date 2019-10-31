@@ -2,6 +2,10 @@
 
 There are hundreds of code examples available. Use the links below to find the example you want, learn more about each repo, and discover how to bring that code example into your development environment.
 
+See [KBA225201](https://community.cypress.com/docs/DOC-15968) for details on importing a code example into the ModusToolbox IDE or a third-party IDE.
+
+See the individual Mbed OS example repository for details on how to import each code example into the Mbed build system. Typically you'll find the precise command line in the readme file. 
+
 | Repo | Description |
 | ----- | ----- |
 |[PSoC 6 MCU Examples](https://github.com/cypresssemiconductorco?q=mtb-example-psoc6%20NOT%20Deprecated) | This link finds all PSoC 6 MCU-related repositories for ModusToolbox 2.x. These examples demonstrate the MCU and its features and functionality. |
@@ -15,7 +19,7 @@ Some of the links above just search our repositories to find what you're looking
 
 ![search](Images/search.png)
 
-Cypress is in transition between ModusToolbox v1.1 and v2.0. The information above references ModusToolbox 2.0. If you are interested in code examples for ModusToolbox v1.1:
+These examples and links reference ModusToolbox 2.0. If you are interested in code examples for ModusToolbox v1.1:
 
 - For legacy MCU examples [this repository](https://github.com/cypresssemiconductorco/Code-Examples-for-the-ModusToolbox-PSoC-6-SDK).
 - For legacy Bluetooth SDK examples [this repository](https://github.com/cypresssemiconductorco/Code-Examples-BT-SDK-for-ModusToolbox). 
