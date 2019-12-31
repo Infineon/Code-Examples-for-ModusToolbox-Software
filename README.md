@@ -4,7 +4,7 @@ There are hundreds of code examples available. Use the links below to find the e
 
 See [KBA225201](https://community.cypress.com/docs/DOC-15968) for details on importing a code example into the ModusToolbox IDE or a third-party IDE.
 
-See the individual Mbed OS example repository for details on how to import each code example into the Mbed build system. Typically you'll find the precise command line in the readme file. 
+See the individual Mbed OS or Amazon FreeRTOS example repository for details on how to import each code example into the Mbed or Amazon FreeRTOS build system respectively. Typically you'll find the precise command line in the readme file. 
 
 | Repo | Description |
 | ----- | ----- |
@@ -12,6 +12,7 @@ See the individual Mbed OS example repository for details on how to import each 
 |[Bluetooth SDK Examples](https://github.com/cypresssemiconductorco?q=mtb-example-btsdk%20NOT%20Deprecated)| This link finds all btsdk-related examples. |
 |[AWS IoT Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example-aws%20NOT%20deprecated)| This search link displays Amazon Web Services examples using the Mbed OS ecosystem. This includes publisher and subscriber, and greengrass examples. |
 | [Mbed OS Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example%20NOT%20Deprecated) |This link displays a list of all Mbed-OS examples on the Cypress GitHub site, including CapSense, the emWin library, AWS IoT, and more.|
+| [Amazon FreeRTOS Examples](https://github.com/cypresssemiconductorco?q=afr-example%20NOT%20Deprecated) |This link displays a list of all Amazon FreeRTOS examples on the Cypress GitHub site, including CapSense, the emWin library, AWS IoT, and more.|
 
 The AWS examples rely on the [AWS IoT Client Library](https://github.com/cypresssemiconductorco/aws-iot). The examples will link to that library automatically.
 
