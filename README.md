@@ -2,7 +2,7 @@
 
 There are hundreds of code examples available. Use the links below to find the example you want, learn more about each repo, and discover how to bring that code example into your development environment.
 
-See [KBA225201](https://community.cypress.com/docs/DOC-15968) for details on importing a code example into the ModusToolbox IDE or a third-party IDE.
+For details on how to use a code example, see the Getting Started chapter of the [ModusToolbox User Guide](http://www.cypress.com/ModusToolboxUserGuide).
 
 See the individual Mbed OS or Amazon FreeRTOS example repository for details on how to import each code example into the Mbed or Amazon FreeRTOS build system respectively. Typically you'll find the precise command line in the readme file. 
 
