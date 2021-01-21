@@ -9,6 +9,7 @@ See the individual Mbed OS or Amazon FreeRTOS example repository for details on 
 | Repo | Description |
 | ----- | ----- |
 |[PSoC 6 MCU Examples](https://github.com/cypresssemiconductorco?q=mtb-example-psoc6%20NOT%20Deprecated) | This link finds all PSoC 6 MCU-related repositories for ModusToolbox 2.x. These examples demonstrate the MCU and its features and functionality. |
+|[PSoC 4 MCU Examples](https://github.com/cypresssemiconductorco?q=mtb-example-psoc4%20NOT%20Deprecated) | This link finds all PSoC 4 MCU-related repositories for ModusToolbox 2.x. These examples demonstrate the MCU and its features and functionality. |
 |[AnyCloud SDK Examples](https://github.com/cypresssemiconductorco?q=mtb-example-anycloud%20NOT%20Deprecated) | This search link displays AnyCloud examples for PSoC 6 MCUs with CYW43xxx connectivity devices. These examples demonstrate how to use ModusToolbox Wi-Fi and Bluetooth connectivity libraries that are not tied to a specific cloud or device management solution. These include MQTT publisher and subscriber, OTA bootloading, and secure socket examples. |
 |[Bluetooth SDK Examples](https://github.com/cypresssemiconductorco?q=mtb-example-btsdk%20NOT%20Deprecated)| This link finds all btsdk-related examples. |
 | [Mbed OS Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example%20NOT%20Deprecated) |This link displays a list of all Mbed-OS examples on the Cypress GitHub site, including CapSense, the emWin library, AWS IoT, and more.|
