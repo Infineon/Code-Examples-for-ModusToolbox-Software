@@ -1,32 +1,32 @@
-# Code Examples for ModusToolbox Software
+# Code Examples for ModusToolbox™ Software
 
 There are hundreds of code examples available. Use the links below to find the example you want, learn more about each repo, and discover how to bring that code example into your development environment.
 
-For details on how to use a code example, see the Getting Started chapter of the [ModusToolbox User Guide](http://www.cypress.com/ModusToolboxUserGuide).
+For details on how to use a code example, see the Getting Started chapter of the [ModusToolbox™ User Guide](http://www.cypress.com/ModusToolboxUserGuide).
 
 See the individual Mbed OS or Amazon FreeRTOS example repository for details on how to import each code example into the Mbed or Amazon FreeRTOS build system respectively. Typically you'll find the precise command line in the readme file. 
 
 | Repo | Description |
 | ----- | ----- |
-|[PSoC 6 MCU Examples](https://github.com/cypresssemiconductorco?q=mtb-example-psoc6%20NOT%20Deprecated) | This search link displays all PSoC 6 MCU examples for ModusToolbox 2.x. These examples demonstrate the MCU and its features and functionality. |
-|[PSoC 4 MCU Examples](https://github.com/cypresssemiconductorco?q=mtb-example-psoc4%20NOT%20Deprecated) | This search link displays all PSoC 4 MCU examples for ModusToolbox 2.x. These examples demonstrate the MCU and its features and functionality. |
-|[XMC MCU Examples](https://github.com/cypresssemiconductorco?q=mtb-example-xmc%20NOT%20Deprecated) | This search link displays all XMC MCU examples for ModusToolbox 2.x. These examples demonstrate the MCU and its features and functionality. |
-|[PMG1 MCU Examples](https://github.com/cypresssemiconductorco?q=mtb-example-pmg1%20NOT%20Deprecated) | This search link displays all PMG1 MCU examples for ModusToolbox 2.x. These examples demonstrate the MCU and its features and functionality. |
-|[AnyCloud SDK Examples](https://github.com/cypresssemiconductorco?q=mtb-example-anycloud%20NOT%20Deprecated) | This search link displays AnyCloud examples for PSoC 6 MCUs with CYW43xxx connectivity devices. These examples demonstrate how to use ModusToolbox Wi-Fi and Bluetooth connectivity libraries that are not tied to a specific cloud or device management solution. These include MQTT publisher and subscriber, OTA bootloading, and secure socket examples. |
-|[Bluetooth SDK Examples](https://github.com/cypresssemiconductorco?q=%22mtb-example-btsdk%22%20NOT%20Deprecated)| This link finds all btsdk-related examples. |
-| [Mbed OS Examples](https://github.com/cypresssemiconductorco?q=mbed-os-example%20NOT%20Deprecated) |This link displays a list of all Mbed-OS examples on the Cypress GitHub site, including CapSense, the emWin library, AWS IoT, and more.|
-| [AWS IoT Examples](https://github.com/cypresssemiconductorco?q=afr-example%20NOT%20Deprecated) |This link displays a list of all Cypress Amazon FreeRTOS examples. In addition, the Amazon FreeRTOS repository [demo folder](https://github.com/cypresssemiconductorco/amazon-freertos/tree/master/demos) contains multiple examples, including additional AWS IoT examples. Some examples may not be supported on Cypress hardware. See the Getting Started guide for each board, available through the repository [ReadMe file](https://github.com/cypresssemiconductorco/amazon-freertos/blob/master/README.md).|
+|[PSoC™ 6 MCU Examples](https://github.com/Infineon?q=mtb-example-psoc6%20NOT%20Deprecated) | This search link displays all PSoC 6 MCU examples for ModusToolbox 2.x. These examples demonstrate the MCU and its features and functionality. |
+|[PSoC™ 4 MCU Examples](https://github.com/Infineon?q=mtb-example-psoc4%20NOT%20Deprecated) | This search link displays all PSoC 4 MCU examples for ModusToolbox 2.x. These examples demonstrate the MCU and its features and functionality. |
+|[XMC MCU Examples](https://github.com/Infineon?q=mtb-example-xmc%20NOT%20Deprecated) | This search link displays all XMC MCU examples for ModusToolbox 2.x. These examples demonstrate the MCU and its features and functionality. |
+|[PMG1 MCU Examples](https://github.com/Infineon?q=mtb-example-pmg1%20NOT%20Deprecated) | This search link displays all PMG1 MCU examples for ModusToolbox 2.x. These examples demonstrate the MCU and its features and functionality. |
+|[AnyCloud SDK Examples](https://github.com/Infineon?q=mtb-example-anycloud%20NOT%20Deprecated) | This search link displays AnyCloud examples for PSoC 6 MCUs with CYW43xxx connectivity devices. These examples demonstrate how to use ModusToolbox Wi-Fi and Bluetooth connectivity libraries that are not tied to a specific cloud or device management solution. These include MQTT publisher and subscriber, OTA bootloading, and secure socket examples. |
+|[Bluetooth SDK Examples](https://github.com/Infineon?q=%22mtb-example-btsdk%22%20NOT%20Deprecated)| This link finds all btsdk-related examples. |
+| [Mbed OS Examples](https://github.com/Infineon?q=mbed-os-example%20NOT%20Deprecated) |This link displays a list of all Mbed-OS examples on the Cypress GitHub site, including CapSense, the emWin library, AWS IoT, and more.|
+| [AWS IoT Examples](https://github.com/Infineon?q=afr-example%20NOT%20Deprecated) |This link displays a list of all Cypress Amazon FreeRTOS examples. In addition, the Amazon FreeRTOS repository [demo folder](https://github.com/Infineon/amazon-freertos/tree/master/demos) contains multiple examples, including additional AWS IoT examples. Some examples may not be supported on Cypress hardware. See the Getting Started guide for each board, available through the repository [ReadMe file](https://github.com/Infineon/amazon-freertos/blob/master/README.md).|
 
-The AWS examples rely on the [AWS IoT Client Library](https://github.com/cypresssemiconductorco/aws-iot). The examples will link to that library automatically.
+The AWS examples rely on the [AWS IoT Client Library](https://github.com/Infineon/aws-iot). The examples will link to that library automatically.
 
-Some of the links above just search our repositories to find what you're looking for. To create your own search, go to the [Cypress GitHub home page](https://github.com/cypresssemiconductorco) and enter a search term in the **Find a repository** field.
+Some of the links above just search our repositories to find what you're looking for. To create your own search, go to the [GitHub home page](https://github.com/Infineon) and enter a search term in the **Find a repository** field.
 
 ![search](Images/search.png)
 
 These examples and links reference ModusToolbox 2.0. If you are interested in code examples for ModusToolbox v1.1:
 
-- For legacy MCU examples [this repository](https://github.com/cypresssemiconductorco/Code-Examples-for-the-ModusToolbox-PSoC-6-SDK).
-- For legacy Bluetooth SDK examples [this repository](https://github.com/cypresssemiconductorco/Code-Examples-BT-SDK-for-ModusToolbox). 
+- For legacy MCU examples [this repository](https://github.com/Infineon/Code-Examples-for-the-ModusToolbox-PSoC-6-SDK).
+- For legacy Bluetooth SDK examples [this repository](https://github.com/Infineon/Code-Examples-BT-SDK-for-ModusToolbox). 
 
 # ModusToolbox Software
 ![](Images/MTbanner.png)
@@ -61,6 +61,6 @@ The TRM provides detailed descriptions of the internal architecture of PSoC 6 de
 
 ### Cypress Developer Community ##
 
-Need support for your design and development questions? Check out the [ModusToolbox Forum](https://community.cypress.com/community/modustoolbox/overview), or the [PSoC 6 forum](https://community.cypress.com/community/psoc-6) on the [Cypress Developer Community 3.0](https://community.cypress.com/welcome). Interact with technical experts in the embedded design community and receive answers verified by Cypress' very best applications engineers. You'll also have access to robust technical documentation, active conversation threads, and rich multimedia content.
+Need support for your design and development questions? Check out the [ModusToolbox™ Forum](https://community.cypress.com/community/modustoolbox/overview), or the [PSoC 6 forum](https://community.cypress.com/community/psoc-6) on the [Cypress Developer Community 3.0](https://community.cypress.com/welcome). Interact with technical experts in the embedded design community and receive answers verified by Cypress' very best applications engineers. You'll also have access to robust technical documentation, active conversation threads, and rich multimedia content.
 
 [Community Forums](https://community.cypress.com/welcome) | [Videos](http://www.cypress.com/video-library) | [Blogs](http://www.cypress.com/blog) | [Training](http://www.cypress.com/training)
