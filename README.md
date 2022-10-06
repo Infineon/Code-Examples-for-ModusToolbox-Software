@@ -8,10 +8,10 @@ See the individual Mbed OS or Amazon FreeRTOS example repository for details on 
 
 | Repo | Description |
 | ----- | ----- |
-|[PSoC™ 6 MCU examples](https://github.com/Infineon?q=mtb-example-psoc6%20NOT%20Deprecated) | This search link displays all PSoC™ 6 MCU examples for ModusToolbox™ 2.x software. These examples demonstrate the MCU and its features and functionality. |
-|[PSoC™ 4 MCU examples](https://github.com/Infineon?q=mtb-example-psoc4%20NOT%20Deprecated) | This search link displays all PSoC™ 4 MCU examples for ModusToolbox™ 2.x software. These examples demonstrate the MCU and its features and functionality. |
-|[XMC MCU examples](https://github.com/Infineon?q=mtb-example-xmc%20NOT%20Deprecated) | This search link displays all XMC MCU examples for ModusToolbox™ 2.x software. These examples demonstrate the MCU and its features and functionality. |
-|[PMG1 MCU examples](https://github.com/Infineon?q=mtb-example-pmg1%20NOT%20Deprecated) | This search link displays all PMG1 MCU examples for ModusToolbox™ 2.x software. These examples demonstrate the MCU and its features and functionality. |
+|[PSoC™ 6 MCU examples](https://github.com/Infineon?q=mtb-example-psoc6%20NOT%20Deprecated) | This search link displays all PSoC™ 6 MCU examples for ModusToolbox™ software. These examples demonstrate the MCU and its features and functionality. |
+|[PSoC™ 4 MCU examples](https://github.com/Infineon?q=mtb-example-psoc4%20NOT%20Deprecated) | This search link displays all PSoC™ 4 MCU examples for ModusToolbox™ software. These examples demonstrate the MCU and its features and functionality. |
+|[XMC MCU examples](https://github.com/Infineon?q=mtb-example-xmc%20NOT%20Deprecated) | This search link displays all XMC MCU examples for ModusToolbox™ software. These examples demonstrate the MCU and its features and functionality. |
+|[PMG1 MCU examples](https://github.com/Infineon?q=mtb-example-pmg1%20NOT%20Deprecated) | This search link displays all PMG1 MCU examples for ModusToolbox™ software. These examples demonstrate the MCU and its features and functionality. |
 |[ModusToolbox™ any cloud SDK examples](https://github.com/Infineon?q=mtb-example-anycloud%20NOT%20Deprecated) | This search link displays examples for PSoC™ 6 MCUs with AIROC™ CYW43xxx connectivity devices. These examples demonstrate how to use ModusToolbox™ Wi-Fi and Bluetooth® connectivity libraries that are not tied to a specific cloud or device management solution. These include MQTT publisher and subscriber, OTA bootloading, and secure socket examples. |
 |[Bluetooth® SDK examples](https://github.com/Infineon?q=%22mtb-example-btsdk%22%20NOT%20Deprecated)| This link finds all btsdk-related examples. |
 |[Mbed OS examples](https://github.com/Infineon?q=mbed-os-example%20NOT%20Deprecated) |This link displays a list of all Mbed-OS examples on our GitHub site, including CAPSENSE™, the emWin library, AWS IoT, and more.|
@@ -23,7 +23,7 @@ Some of the links above just search our repositories to find what you're looking
 
 ![search](Images/search.png)
 
-These examples and links reference ModusToolbox 2.x. If you are interested in code examples for ModusToolbox v1.1:
+If you are interested in code examples for ModusToolbox v1.1:
 
 - For legacy MCU examples [this repository](https://github.com/Infineon/Code-Examples-for-the-ModusToolbox-PSoC-6-SDK).
 - For legacy Bluetooth SDK examples [this repository](https://github.com/Infineon/Code-Examples-BT-SDK-for-ModusToolbox). 
