@@ -6,11 +6,12 @@ There are hundreds of code examples available for ModusToolbox™ software, and 
 | ----- | ----- |
 | [Bluetooth®](https://github.com/orgs/Infineon/repositories?q=topic%3Abluetooth&type=all&language=&sort=) | This search displays links to examples tagged with "bluetooth" for various kits. |
 | [Community code examples](https://github.com/orgs/Infineon/repositories?q=topic%3Acommunity-code-examples&type=all&language=&sort=) | This search displays links to examples tagged with "community-code-examples" for various kits. |
+| [Functional Safety](https://github.com/orgs/Infineon/repositories?q=topic%3Afunctional-safety&type=all&language=&sort=) | This search displays links to examples tagged with "functional-safety" for various kits. |
 | [Getting started](https://github.com/orgs/Infineon/repositories?q=topic%3Agetting-started&type=all&language=&sort=) | This search displays links to examples tagged "getting-started" for various kits. |
 | [Graphics](https://github.com/orgs/Infineon/repositories?q=topic%3Agraphics&type=all&language=&sort=) | This search displays links to examples tagged with "graphics" for various kits. |
 | [Machine Learning](https://github.com/orgs/Infineon/repositories?q=topic%3Amachine-learning&type=all&language=&sort=) | This search displays links to examples tagged with "machine-learning" for various kits. |
 | [Manufacturing](https://github.com/orgs/Infineon/repositories?q=topic%3Amanufacturing&type=all&language=&sort=) | This search displays links to examples tagged with "manufacturing" for various kits. |
-| [Motor Control](https://github.com/orgs/Infineon/repositories?q=topic%3Amotor-control&type=all&language=&sort=) | This search displays links to examples tagged with "manufacturing" for various kits. |
+| [Motor Control](https://github.com/orgs/Infineon/repositories?q=topic%3Amotor-control&type=all&language=&sort=) | This search displays links to examples tagged with "motor-control" for various kits. |
 | [Peripherals](https://github.com/orgs/Infineon/repositories?q=topic%3Aperipherals&type=all&language=&sort=) | This search displays links to examples tagged with "peripherals" for various kits. |
 | [Sensing/HMI](https://github.com/orgs/Infineon/repositories?q=topic%3Asensing&type=all&language=&sort=) | This search displays links to examples tagged with "sensing" for various kits. |
 | [Wi-Fi](https://github.com/orgs/Infineon/repositories?q=topic%3Awi-fi&type=all&language=&sort=) | This search displays links to examples tagged with "Wi-Fi" for various kits. |
