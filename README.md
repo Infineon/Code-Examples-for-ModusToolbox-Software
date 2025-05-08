@@ -6,7 +6,7 @@ There are hundreds of code examples available for ModusToolbox™ software, and 
 | ----- | ----- |
 | [Bluetooth®](https://github.com/orgs/Infineon/repositories?q=topic%3Abluetooth&type=all&language=&sort=) | This search displays links to examples tagged with "bluetooth" for various kits. |
 | [Community code examples](https://github.com/orgs/Infineon/repositories?q=topic%3Acommunity-code-examples&type=all&language=&sort=) | This search displays links to examples tagged with "community-code-examples" for various kits. |
-| [Functional Safety](https://github.com/orgs/Infineon/repositories?q=topic%3Afunctional-safety&type=all&language=&sort=) | This search displays links to examples tagged with "functional-safety" for various kits. |
+| [Safety](https://github.com/orgs/Infineon/repositories?q=safety) | This search displays links to examples tagged with "safety" for various kits. |
 | [Getting started](https://github.com/orgs/Infineon/repositories?q=topic%3Agetting-started&type=all&language=&sort=) | This search displays links to examples tagged "getting-started" for various kits. |
 | [Graphics](https://github.com/orgs/Infineon/repositories?q=topic%3Agraphics&type=all&language=&sort=) | This search displays links to examples tagged with "graphics" for various kits. |
 | [Machine Learning](https://github.com/orgs/Infineon/repositories?q=topic%3Amachine-learning&type=all&language=&sort=) | This search displays links to examples tagged with "machine-learning" for various kits. |
